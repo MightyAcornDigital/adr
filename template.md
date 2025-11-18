@@ -1,23 +1,23 @@
-# Title of decision
+# [Title of decision]
 
 ## Context
 
 ### Project Overview
 
-<!-- Some brief context about the project for which this decision is being made to help future readers understand the background. -->
+_Some brief context about the project, goals, and problem space around this decision._
 
 ### Problem Statement
 
-<!--- Why do we need to make the decision at all? -->
+_Why do we need to make the decision at all?_
 
 ## Decision
 
-<!--- Brief summary of the decision you're making. -->
+_Brief summary of the decision you're making._
 
 ### Options
 
-<!-- List any considered options along with their pros and cons. -->
+_List any considered options along with their pros and cons._
 
 ## Consequences
 
-<!-- What becomes true after this decision is made? What future work will need to follow as a result? -->
+_What becomes true after this decision is made? What future work will need to follow as a result?_

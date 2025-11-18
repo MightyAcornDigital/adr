@@ -20,8 +20,12 @@ Ultimately, this decision is contextual to the team and project, but as a rule o
 * Involve significant trade-offs.
 * Will have a long-term impact on the system.
 
+You don't need to document every small decision, but focusing on the big ones can provide significant value.
+
 ## What goes into an ADR?
 
 Glad you asked! There are a lot of different templates you can use for this, but we've found that the most important info is captured in the template in this repository.
 
 To create an ADR, simply copy the template file, rename it to ([DATE]-[TITLE].md), and fill in the sections. For example, if you made a decision on June 1, 2024, to use PostgreSQL as your database, you might name the file `2024-06-01-use-postgresql.md`. ADRs are typically stored in the `docs/decisions/` directory of a project.
+
+If you're storing the decision in version control, you typically do not need to document the author or deciders, as these will be captured in the version control history.
